@@ -3,7 +3,7 @@
 A working VitePress research notebook about AI-assisted clue writing for **Signal Garden**, a proposed small prediction game.
 
 <!-- pages-link:start -->
-**Website:** Awaiting first GitHub Pages deployment.
+[Open Game Fieldnotes](https://priyabriya.github.io/IS218-Signal-Garden/)
 <!-- pages-link:end -->
 
 [Project record](docs/project-record.md) · [Research](docs/research.md) · [Checks and partner review](docs/review.md)
